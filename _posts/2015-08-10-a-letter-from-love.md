@@ -3,6 +3,7 @@ layout:     post
 title:      "A Letter From Love"
 date:       2015-08-10 12:00:00
 author:     "Tobalase Akinyemi"
+categories: [Poetry]
 ---
 
 Hello,
