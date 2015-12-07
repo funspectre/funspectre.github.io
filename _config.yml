@@ -1,0 +1,22 @@
+# Site settings
+title: "Tobalase Akinyemi"
+author: "Tobalase Akinyemi"
+header-img: "img/me-church-grayscale.jpg"
+email: stagnova@gmail.com
+description: "The Web Home of a Native Alien"
+baseurl: ""
+url: "https://funspectre.github.io"
+facebook_username:  funspectre
+twitter_username: funspectre
+instagram_username: funspectre
+github_username:  funspectre
+linkedin_username: 
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+timezone: Africa/Lagos
+# gems: ["jekyll-paginate"]
