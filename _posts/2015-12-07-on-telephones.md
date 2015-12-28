@@ -12,7 +12,7 @@ I believe virtually everyone in this current age owns a telephone. I can also as
 
 ###1. Two Calls and a Text
 
-Whenever I try to reach someone by their phone, If unsuccessful the first time, I redial only one more time then procede to leave an SMS so as not to badger them.
+Whenever I try to reach someone by their phone, If unsuccessful the first time, I redial only one more time then proceed to leave an SMS so as not to badger them.
 
 ###2. Always Connect
 
@@ -20,7 +20,7 @@ I try to stay available at all times. When I can not, I make sure all texts are 
 
 ###3. 2 weeks, 2 minutes
 
-I try to shy away from using other people's telephones but there are times when I am without the means to fund my own calls and I have to resort to using a friend's phone. In this case, I make sure not to spend more than 2 minutes of his/her airtime and also not to use hisher phone more than once in two weeks.
+I try to shy away from using other people's telephones but there are times when I am without the means to fund my own calls and I have to resort to using a friend's phone. In this case, I make sure not to spend more than 2 minutes of his/her airtime and also not to use his/her phone more than once in two weeks.
 
 ###4. I.C.E
 

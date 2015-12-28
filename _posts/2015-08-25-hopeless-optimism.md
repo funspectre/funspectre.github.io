@@ -13,7 +13,7 @@ To tell you of the pain
 That you've made me writhe with and  
 The thoughts that have crossed and almost crushed my mind  
 How you've had me wonder and my thoughts wander  
-If there'll ever be a moment when we'll be together  
+If there will ever be a moment when we'll be together  
 You've made me lose hope only to find it again  
 In that place where it's not pain or anger that I feel but something in between  
 I hoped I'll be brave enough to find out if all this was for nothing  

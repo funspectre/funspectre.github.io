@@ -13,7 +13,7 @@ I'll still stick to these like I'll stick with you
 I'm still your friend whether or not the skies stay blue  
 I'll still hang around when there's no reason or clue  
 Even when you rock a band of trouble, we'll do it double  
-Cos I'm the only one that makes up the few that'll stick with you  
+Cos I'm the only one that makes up the few that will stick with you  
 I live for all that is true and never give up on all that I do  
 And be your friend, right now, is all I want to do  
 If all I've said has a lot of "I" in it, trust me when I say that's where I put you  
