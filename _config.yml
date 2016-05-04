@@ -14,8 +14,7 @@ linkedin_username:
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: pretty
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 timezone: Africa/Lagos
-# gems: ["jekyll-paginate"]
